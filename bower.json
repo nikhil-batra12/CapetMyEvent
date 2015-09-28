@@ -1,0 +1,14 @@
+{
+  "name": "CarpetMyEvent",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "*",
+    "angular-animate": "*",
+    "angular-bootstrap": "*",
+    "angular-couch-potato": "*",
+    "angular-ui-router": "*",
+    "bootstrap": "*",
+    "jquery": "*",
+    "requirejs": "*"
+  }
+}

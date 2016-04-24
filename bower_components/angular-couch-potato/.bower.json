@@ -32,7 +32,7 @@
     "tag": "0.2.3",
     "commit": "6cb453cd4607eeef982b7c1c28fc7555e3e75bf5"
   },
-  "_source": "git://github.com/stu-salsbury/angular-couch-potato.git",
-  "_target": "*",
+  "_source": "https://github.com/stu-salsbury/angular-couch-potato.git",
+  "_target": "~0.2.3",
   "_originalSource": "angular-couch-potato"
 }
